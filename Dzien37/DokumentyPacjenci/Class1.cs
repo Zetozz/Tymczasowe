@@ -13,6 +13,7 @@ namespace DokumentyPacjenci
             static int i = 0;
             string Imie;
 
+            // dodaelm komentaz
 
         }
 
